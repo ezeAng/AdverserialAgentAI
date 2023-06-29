@@ -1,0 +1,15 @@
+WHITE: ('g', 1), ('f', 2)
+BLACK: ('a', 5), ('b', 4)
+WHITE: ('a', 1), ('b', 2)
+BLACK: ('g', 5), ('f', 4)
+WHITE: ('g', 0), ('g', 6)
+BLACK: ('c', 5), ('c', 4)
+WHITE: ('g', 6), ('f', 6)
+BLACK: ('d', 5), ('d', 4)
+WHITE: ('c', 1), ('c', 2)
+BLACK: ('e', 5), ('e', 4)
+WHITE: ('b', 0), ('f', 4)
+BLACK: ('a', 6), ('c', 5)
+WHITE: ('f', 4), ('d', 6)
+{'Lose': 0, 'Draw': 0, 'Win': 1}
+Time: 0.7350561618804932
